@@ -4,4 +4,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://sungjune1437-ship-it.github.io/supermans/sitemap.xml
+Sitemap: https://supermans24.github.io/sitemap.xml
