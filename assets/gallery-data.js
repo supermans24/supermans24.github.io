@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "부산 창원 부산 울산 로봇청소기장 로보락 S10 + 사각싱크볼 아티잔 PEDU858 동시 시공 후기",
+"d": "2026. 9. 3.",
+"u": "https://blog.naver.com/supermans8157/224399810022",
+"img": "assets/gallery/auto/224399810022.jpg",
+"ts": "2026-09-03T15:56:19+09:00"
+},
+{
 "c": "crack",
 "t": "부산 싱크대 상판 금이 길게 번졌어요｜인조대리석 크랙 수리 후기",
 "d": "2026. 9. 2.",
@@ -174,14 +182,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224373942171",
 "img": "assets/gallery/hood_sink/224373942171_0.png",
 "ts": "2026-08-11T00:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "대구 로봇청소기 로보락 S10 울트라 가스레인지 아래 설치",
-"d": "2026. 8. 10.",
-"u": "https://blog.naver.com/supermans8157/224374483101",
-"img": "assets/gallery/robot/224374483101_0.png",
-"ts": "2026-08-10T00:00:00+09:00"
 },
 {
 "c": "hood_sink",
