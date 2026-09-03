@@ -177,9 +177,10 @@ section{padding:104px 0}
 .ba-note{text-align:center;color:var(--faint);font-size:13px;margin-top:22px}
 
 /* ---------- why ---------- */
-.why{display:grid;grid-template-columns:1.05fr 1fr;gap:56px;align-items:center}
+.why{display:grid;grid-template-columns:1.05fr 1fr;gap:56px;align-items:stretch}
 @media(max-width:900px){.why{grid-template-columns:1fr;gap:36px}}
-.why-img{position:relative;border-radius:24px;overflow:hidden;box-shadow:0 24px 60px rgba(90,75,40,.22);aspect-ratio:4/3}
+.why-img{position:relative;border-radius:24px;overflow:hidden;box-shadow:0 24px 60px rgba(90,75,40,.22);height:100%;min-height:320px}
+@media(max-width:900px){.why-img{height:auto;aspect-ratio:4/3}}
 .why-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.4s ease;transform:scale(1)}
 .why-img img.on{opacity:1;animation:whyzoom 4.5s ease-in-out both}
 @keyframes whyzoom{from{transform:scale(1)}to{transform:scale(1.06)}}
