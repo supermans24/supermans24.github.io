@@ -1,5 +1,21 @@
 const GALLERY = [
 {
+"c": "cutting",
+"t": "부산 가스오븐레인지 철거 후 인덕션 설치｜빈자리 수납장으로 리폼",
+"d": "2026. 9. 5.",
+"u": "https://blog.naver.com/supermans8157/224400826677",
+"img": "assets/gallery/auto/224400826677.jpg",
+"ts": "2026-09-05T08:00:00+09:00"
+},
+{
+"c": "crack",
+"t": "싱크대 상판 깨짐, 수리해서 써도 괜찮을까요?",
+"d": "2026. 9. 4.",
+"u": "https://blog.naver.com/supermans8157/224400657463",
+"img": "assets/gallery/auto/224400657463.jpg",
+"ts": "2026-09-04T11:20:30+09:00"
+},
+{
 "c": "robot",
 "t": "부산 창원 부산 울산 로봇청소기장 로보락 S10 + 사각싱크볼 아티잔 PEDU858 동시 시공 후기",
 "d": "2026. 9. 3.",
@@ -390,14 +406,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224303221395",
 "img": "assets/gallery/cutting/224303221395_0.jpg",
 "ts": "2026-06-02T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "부산 사각 싱크볼 교체 후기｜상판 크랙 수리 + 문짝 리폼까지",
-"d": "2026. 5. 8.",
-"u": "https://blog.naver.com/superman1187/224278957531",
-"img": "assets/gallery/auto/224278957531.jpg",
-"ts": "2026-05-08T15:09:24+09:00"
 },
 {
 "c": "cutting",
