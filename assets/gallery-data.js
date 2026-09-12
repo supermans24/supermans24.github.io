@@ -1,5 +1,21 @@
 const GALLERY = [
 {
+"c": "hood_sink",
+"t": "경주 울산 식세기장 리폼｜규격장이 싱크볼과 멀 때 위치를 바꿀 수 있을까?",
+"d": "2026. 9. 12.",
+"u": "https://blog.naver.com/supermans8157/224407216520",
+"img": "assets/gallery/auto/224407216520.jpg",
+"ts": "2026-09-12T10:30:00+09:00"
+},
+{
+"c": "reform",
+"t": "부산 김해 싱크대 상부장이 내려오는 것 같아요｜처짐 보수 현장",
+"d": "2026. 9. 12.",
+"u": "https://blog.naver.com/superman1187/224407562228",
+"img": "assets/gallery/auto/224407562228.jpg",
+"ts": "2026-09-12T09:10:00+09:00"
+},
+{
 "c": "cutting",
 "t": "양산 김해 아일랜드 식탁 줄이기｜상판 절단 후 하부장까지 깔끔하게 마감",
 "d": "2026. 9. 11.",
@@ -376,14 +392,6 @@ const GALLERY = [
 "ts": "2026-07-17T08:50:00+09:00"
 },
 {
-"c": "hood_sink",
-"t": "경주에서 사각싱크볼 설치 잘하는 곳 추천부탁드립니다",
-"d": "2026. 7. 16.",
-"u": "https://blog.naver.com/supermans8157/224348206570",
-"img": "assets/gallery/auto/224348206570.jpg",
-"ts": "2026-07-16T14:10:00+09:00"
-},
-{
 "c": "polish",
 "t": "양산 싱크대 상판 연마광택, 시공 전후 비교 후기",
 "d": "2026. 7. 9.",
@@ -406,14 +414,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224337905023",
 "img": "assets/gallery/cutting/224337905023_0.jpg",
 "ts": "2026-07-07T00:00:00+09:00"
-},
-{
-"c": "reform",
-"t": "부산 영도 오븐장 제작 설치, 빌트인처럼 깔끔한 주방 완성",
-"d": "2026. 7. 6.",
-"u": "https://blog.naver.com/supermans8157/224337887925",
-"img": "assets/gallery/auto/224337887925.jpg",
-"ts": "2026-07-06T16:10:00+09:00"
 },
 {
 "c": "polish",
