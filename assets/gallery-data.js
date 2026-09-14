@@ -1,5 +1,21 @@
 const GALLERY = [
 {
+"c": "cutting",
+"t": "부산 김해 과일세척기·가스오븐레인지 철거｜상판 구멍 막고 하부장 설치",
+"d": "2026. 9. 14.",
+"u": "https://blog.naver.com/supermans8157/224411163950",
+"img": "assets/gallery/auto/224411163950.jpg",
+"ts": "2026-09-14T13:48:27+09:00"
+},
+{
+"c": "cutting",
+"t": "울산 양산 정수기 구멍 메꿈｜정수기구멍타공 된 엔지니어드스톤 상판 복원",
+"d": "2026. 9. 14.",
+"u": "https://blog.naver.com/supermans8157/224410949513",
+"img": "assets/gallery/auto/224410949513.jpg",
+"ts": "2026-09-14T10:48:28+09:00"
+},
+{
 "c": "hood_sink",
 "t": "경주 울산 식세기장 리폼｜규격장이 싱크볼과 멀 때 위치를 바꿀 수 있을까?",
 "d": "2026. 9. 12.",
@@ -462,21 +478,5 @@ const GALLERY = [
 "u": "https://blog.naver.com/superman1187/224051627553",
 "img": "assets/gallery/auto/224051627553.jpg",
 "ts": "2025-10-24T10:10:00+09:00"
-},
-{
-"c": "cutting",
-"t": "부산 김해 싱크대 상판 타공 가스레인지설치",
-"d": "2025. 10. 13.",
-"u": "https://blog.naver.com/supermans8157/224037897787",
-"img": "assets/gallery/cutting/224037897787_0.jpg",
-"ts": "2025-10-13T00:00:00+09:00"
-},
-{
-"c": "cutting",
-"t": "울산 주방 정수기 철거 후 구멍 막음",
-"d": "2025. 10. 9.",
-"u": "https://blog.naver.com/supermans8157/224032434134",
-"img": "assets/gallery/cutting/224032434134_0.jpg",
-"ts": "2025-10-09T00:00:00+09:00"
 }
 ];
