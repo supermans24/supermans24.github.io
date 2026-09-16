@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "싱크대 안쪽부터 뒤까지 길게 이어진 금｜창원 양산 인조대리석 수리",
+"d": "2026. 9. 16.",
+"u": "https://blog.naver.com/supermans8157/224413625986",
+"img": "assets/gallery/auto/224413625986.jpg",
+"ts": "2026-09-16T13:13:13+09:00"
+},
+{
 "c": "reform",
 "t": "식기세척기 뺀 자리, 갖고 있던 오븐으로 채웠어요｜울산 싱크대 리폼",
 "d": "2026. 9. 15.",
@@ -374,14 +382,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224360956503",
 "img": "assets/gallery/reform/224360956503_0.jpg",
 "ts": "2026-07-30T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "김해 싱크대상판 균열 복원, 충격으로 생긴 T자형 파손 수리 후기",
-"d": "2026. 7. 29.",
-"u": "https://blog.naver.com/supermans8157/224360777233",
-"img": "assets/gallery/crack/224360777233_0.jpg",
-"ts": "2026-07-29T00:00:00+09:00"
 },
 {
 "c": "reform",
