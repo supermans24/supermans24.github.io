@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "포항 경주 로봇청소기장 로보락 직배수 리폼 2단 서랍 타일 바닥도 OK",
+"d": "2026. 9. 23.",
+"u": "https://blog.naver.com/superman1187/224421305117",
+"img": "assets/gallery/auto/224421305117.jpg",
+"ts": "2026-09-23T22:08:07+09:00"
+},
+{
 "c": "hood_sink",
 "t": "창원 김해 엠보코팅 사각싱크볼 세제함 있는 아티잔 PEDU 설치 사례",
 "d": "2026. 9. 21.",
@@ -262,14 +270,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224389591812",
 "img": "assets/gallery/hood_sink/224389591812_0.jpg",
 "ts": "2026-08-25T00:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "진해 ㄱ자 주방, 로봇청소기 직배수를 위한 밥솥장 리폼 후기",
-"d": "2026. 8. 24.",
-"u": "https://blog.naver.com/supermans8157/224388377061",
-"img": "assets/gallery/robot/224388377061_0.jpg",
-"ts": "2026-08-24T00:00:00+09:00"
 },
 {
 "c": "reform",
