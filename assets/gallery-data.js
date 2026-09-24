@@ -1,5 +1,21 @@
 const GALLERY = [
 {
+"c": "polish",
+"t": "부산 김해 싱크대상판 크랙수리와 싱크대연마광택으로 화사하게",
+"d": "2026. 9. 25.",
+"u": "https://blog.naver.com/supermans8157/224418822096",
+"img": "assets/gallery/auto/224418822096.jpg",
+"ts": "2026-09-25T08:10:00+09:00"
+},
+{
+"c": "cutting",
+"t": "부산 거실 아트월 구멍복원 눈에 거슬릴 때",
+"d": "2026. 9. 24.",
+"u": "https://blog.naver.com/supermans8157/224418815553",
+"img": "assets/gallery/auto/224418815553.jpg",
+"ts": "2026-09-24T09:10:00+09:00"
+},
+{
 "c": "robot",
 "t": "포항 경주 로봇청소기장 로보락 직배수 리폼 2단 서랍 타일 바닥도 OK",
 "d": "2026. 9. 23.",
@@ -462,21 +478,5 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224067249598",
 "img": "assets/gallery/cutting/224067249598_0.jpg",
 "ts": "2025-11-07T00:00:00+09:00"
-},
-{
-"c": "cutting",
-"t": "울산 경주 인덕션 대리석 절단과 갈라짐 수리하기",
-"d": "2025. 10. 26.",
-"u": "https://blog.naver.com/supermans8157/224050852923",
-"img": "assets/gallery/cutting/224050852923_0.jpg",
-"ts": "2025-10-26T00:00:00+09:00"
-},
-{
-"c": "polish",
-"t": "김해 부산 상판연마광택, 싱크대상판수리 전문 업체",
-"d": "2025. 10. 24.",
-"u": "https://blog.naver.com/superman1187/224051627553",
-"img": "assets/gallery/auto/224051627553.jpg",
-"ts": "2025-10-24T10:10:00+09:00"
 }
 ];
