@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "cutting",
+"t": "울산 부산 싱크대 구멍 복원 비스포크 정수기 구멍 막음",
+"d": "2026. 9. 27.",
+"u": "https://blog.naver.com/supermans8157/224423775032",
+"img": "assets/gallery/auto/224423775032.jpg",
+"ts": "2026-09-27T13:13:01+09:00"
+},
+{
 "c": "polish",
 "t": "부산 김해 싱크대상판 크랙수리와 싱크대연마광택으로 화사하게",
 "d": "2026. 9. 25.",
@@ -470,13 +478,5 @@ const GALLERY = [
 "u": "https://blog.naver.com/superman1187/224103312887",
 "img": "assets/gallery/auto/224103312887.jpg",
 "ts": "2025-12-09T11:07:08+09:00"
-},
-{
-"c": "cutting",
-"t": "양산 아트월 구멍복원 티비설치 흔적 지우기 메꿈",
-"d": "2025. 11. 7.",
-"u": "https://blog.naver.com/supermans8157/224067249598",
-"img": "assets/gallery/cutting/224067249598_0.jpg",
-"ts": "2025-11-07T00:00:00+09:00"
 }
 ];
