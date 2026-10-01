@@ -1,6 +1,14 @@
 const GALLERY = [
 {
 "c": "hood_sink",
+"t": "부산 울산 사각싱크볼 교체｜백조 CESWSR·깜뽀르떼 플러스·벨뽀르떼 비교 차이는?",
+"d": "2026. 10. 1.",
+"u": "https://blog.naver.com/superman1187/224428416466",
+"img": "assets/gallery/auto/224428416466.jpg",
+"ts": "2026-10-01T16:42:48+09:00"
+},
+{
+"c": "hood_sink",
 "t": "경주 창원 사각싱크볼 교체｜아티잔 포켓 PEDU858 설치",
 "d": "2026. 9. 30.",
 "u": "https://blog.naver.com/supermans8157/224427054677",
@@ -366,14 +374,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224373942171",
 "img": "assets/gallery/hood_sink/224373942171_0.png",
 "ts": "2026-08-11T00:00:00+09:00"
-},
-{
-"c": "hood_sink",
-"t": "김해 싱크볼 교체 - 아티잔EDU858, 에떼르노 4way",
-"d": "2026. 8. 10.",
-"u": "https://blog.naver.com/supermans8157/224373376348",
-"img": "assets/gallery/hood_sink/224373376348_0.png",
-"ts": "2026-08-10T00:00:00+09:00"
 },
 {
 "c": "crack",
