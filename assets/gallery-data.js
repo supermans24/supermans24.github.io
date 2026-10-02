@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "포항 대구 로봇청소기 직배수 설치를 위한 싱크대 하부 개조",
+"d": "2026. 10. 2.",
+"u": "https://blog.naver.com/supermans8157/224429324070",
+"img": "assets/gallery/auto/224429324070.jpg",
+"ts": "2026-10-02T13:23:44+09:00"
+},
+{
 "c": "hood_sink",
 "t": "부산 울산 사각싱크볼 교체｜백조 CESWSR·깜뽀르떼 플러스·벨뽀르떼 비교 차이는?",
 "d": "2026. 10. 1.",
@@ -294,14 +302,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224391958174",
 "img": "assets/gallery/polish/224391958174_0.jpg",
 "ts": "2026-08-27T00:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "양산 나르왈 로봇청소기장 리폼과 직배수 연결 가능한 공간 조건",
-"d": "2026. 8. 25.",
-"u": "https://blog.naver.com/superman1187/224389755507",
-"img": "assets/gallery/auto/224389755507.jpg",
-"ts": "2026-08-25T15:33:43+09:00"
 },
 {
 "c": "hood_sink",
