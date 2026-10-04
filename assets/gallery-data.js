@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "polish",
+"t": "김해 울산 싱크대상판 연마광택으로 맨들맨들하게",
+"d": "2026. 10. 3.",
+"u": "https://blog.naver.com/supermans8157/224425957792",
+"img": "assets/gallery/auto/224425957792.jpg",
+"ts": "2026-10-03T09:00:00+09:00"
+},
+{
 "c": "robot",
 "t": "포항 대구 로봇청소기 직배수 설치를 위한 싱크대 하부 개조",
 "d": "2026. 10. 2.",
@@ -454,14 +462,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224337905023",
 "img": "assets/gallery/cutting/224337905023_0.jpg",
 "ts": "2026-07-07T00:00:00+09:00"
-},
-{
-"c": "polish",
-"t": "울산 사각싱크볼교체 연마광택으로 상판 스크래치까지 복원",
-"d": "2026. 7. 3.",
-"u": "https://blog.naver.com/supermans8157/224335684367",
-"img": "assets/gallery/polish/224335684367_0.jpg",
-"ts": "2026-07-03T00:00:00+09:00"
 },
 {
 "c": "cutting",
