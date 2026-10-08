@@ -1,5 +1,29 @@
 const GALLERY = [
 {
+"c": "hood_sink",
+"t": "포항 양산 주방후드교체 하츠 슬라이드",
+"d": "2026. 10. 8.",
+"u": "https://blog.naver.com/supermans8157/224434117452",
+"img": "assets/gallery/auto/224434117452.jpg",
+"ts": "2026-10-08T09:40:00+09:00"
+},
+{
+"c": "cutting",
+"t": "경주 부산 인덕션 설치를 위한 가스레인지 상판 추가 절단",
+"d": "2026. 10. 7.",
+"u": "https://blog.naver.com/superman1187/224434137971",
+"img": "assets/gallery/auto/224434137971.jpg",
+"ts": "2026-10-07T14:46:54+09:00"
+},
+{
+"c": "crack",
+"t": "대구 부산 주방 세라믹 상판 깨짐 파손도 수리할 수 있어요.",
+"d": "2026. 10. 7.",
+"u": "https://blog.naver.com/supermans8157/224434111752",
+"img": "assets/gallery/auto/224434111752.jpg",
+"ts": "2026-10-07T14:25:23+09:00"
+},
+{
 "c": "polish",
 "t": "김해 울산 싱크대상판 연마광택으로 맨들맨들하게",
 "d": "2026. 10. 3.",
@@ -376,14 +400,6 @@ const GALLERY = [
 "ts": "2026-08-14T00:00:00+09:00"
 },
 {
-"c": "hood_sink",
-"t": "창원 싱크대 아티잔 PEDU858 엠보코팅 사각싱크볼 교체, 루미노바 LV18000 수전 설치",
-"d": "2026. 8. 11.",
-"u": "https://blog.naver.com/supermans8157/224373942171",
-"img": "assets/gallery/hood_sink/224373942171_0.png",
-"ts": "2026-08-11T00:00:00+09:00"
-},
-{
 "c": "crack",
 "t": "부산 싱크볼 옆 실금 크랙, 누수 전 인조대리석 상판 수리 후기",
 "d": "2026. 8. 7.",
@@ -414,14 +430,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224365944015",
 "img": "assets/gallery/reform/224365944015_0.jpg",
 "ts": "2026-08-02T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "김해 인조대리석 상판 금 수리｜율하 시티프라디움 조각심기 복원 사례",
-"d": "2026. 7. 31.",
-"u": "https://blog.naver.com/supermans8157/224363280721",
-"img": "assets/gallery/crack/224363280721_0.jpg",
-"ts": "2026-07-31T00:00:00+09:00"
 },
 {
 "c": "reform",
@@ -470,13 +478,5 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224303221395",
 "img": "assets/gallery/cutting/224303221395_0.jpg",
 "ts": "2026-06-02T00:00:00+09:00"
-},
-{
-"c": "cutting",
-"t": "부산 김해 벽타일 구멍 보수 메꿈 작업",
-"d": "2025. 12. 9.",
-"u": "https://blog.naver.com/superman1187/224103312887",
-"img": "assets/gallery/auto/224103312887.jpg",
-"ts": "2025-12-09T11:07:08+09:00"
 }
 ];
