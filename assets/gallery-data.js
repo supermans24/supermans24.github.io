@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "경주 김해 싱크대 수리 - 갈라지고 단차 생김 보수",
+"d": "2026. 10. 11.",
+"u": "https://blog.naver.com/supermans8157/224437886026",
+"img": "assets/gallery/auto/224437886026.jpg",
+"ts": "2026-10-11T12:54:38+09:00"
+},
+{
 "c": "hood_sink",
 "t": "포항 양산 주방후드교체 하츠 슬라이드",
 "d": "2026. 10. 8.",
@@ -414,14 +422,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224369334020",
 "img": "assets/gallery/reform/224369334020_0.png",
 "ts": "2026-08-05T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "울산 싱크대 상판 갈라짐 수리｜측면 벌어짐·식세기 위 크랙 보수",
-"d": "2026. 8. 3.",
-"u": "https://blog.naver.com/supermans8157/224365961549",
-"img": "assets/gallery/crack/224365961549_0.jpg",
-"ts": "2026-08-03T00:00:00+09:00"
 },
 {
 "c": "reform",
