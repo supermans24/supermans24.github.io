@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "김해 창원 로보락장 직배수 연결할 수 있게 싱크대리폼하기",
+"d": "2026. 10. 14.",
+"u": "https://blog.naver.com/supermans8157/224441333548",
+"img": "assets/gallery/auto/224441333548.jpg",
+"ts": "2026-10-14T13:18:50+09:00"
+},
+{
 "c": "crack",
 "t": "경주 김해 싱크대 수리 - 갈라지고 단차 생김 보수",
 "d": "2026. 10. 11.",
@@ -326,14 +334,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224392925132",
 "img": "assets/gallery/robot/224392925132_0.jpg",
 "ts": "2026-08-28T00:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "김해 로봇청소기 슬림형 로보락 S10 설치를 위한 싱크대 하부장 리폼 비용",
-"d": "2026. 8. 27.",
-"u": "https://blog.naver.com/superman1187/224392082902",
-"img": "assets/gallery/auto/224392082902.jpg",
-"ts": "2026-08-27T15:17:49+09:00"
 },
 {
 "c": "polish",
