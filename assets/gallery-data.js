@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "양산 인조대리석상판수리 갈라진 곳 복원 보수",
+"d": "2026. 10. 19.",
+"u": "https://blog.naver.com/supermans8157/224446645445",
+"img": "assets/gallery/auto/224446645445.jpg",
+"ts": "2026-10-19T15:45:39+09:00"
+},
+{
 "c": "robot",
 "t": "김해 창원 로보락장 직배수 연결할 수 있게 싱크대리폼하기",
 "d": "2026. 10. 14.",
@@ -406,14 +414,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224378940755",
 "img": "assets/gallery/reform/224378940755_0.jpg",
 "ts": "2026-08-14T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "부산 싱크볼 옆 실금 크랙, 누수 전 인조대리석 상판 수리 후기",
-"d": "2026. 8. 7.",
-"u": "https://blog.naver.com/supermans8157/224371139875",
-"img": "assets/gallery/crack/224371139875_0.png",
-"ts": "2026-08-07T00:00:00+09:00"
 },
 {
 "c": "reform",
