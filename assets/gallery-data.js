@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "polish",
+"t": "포항 울산 상판연마광택으로 말끔해졌어요.",
+"d": "2026. 11. 2.",
+"u": "https://blog.naver.com/supermans8157/224462125152",
+"img": "assets/gallery/auto/224462125152.jpg",
+"ts": "2026-11-02T12:43:33+09:00"
+},
+{
 "c": "crack",
 "t": "양산 인조대리석상판수리 갈라진 곳 복원 보수",
 "d": "2026. 10. 19.",
@@ -454,14 +462,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224341617728",
 "img": "assets/gallery/polish/224341617728_0.jpg",
 "ts": "2026-07-09T00:00:00+09:00"
-},
-{
-"c": "polish",
-"t": "부산 롯데캐슬 싱크대 상판 연마광택, 사용감은 줄이고 광택은 되살리기",
-"d": "2026. 7. 7.",
-"u": "https://blog.naver.com/supermans8157/224337952616",
-"img": "assets/gallery/polish/224337952616_0.jpg",
-"ts": "2026-07-07T00:00:00+09:00"
 },
 {
 "c": "cutting",
