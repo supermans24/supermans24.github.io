@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "hood_sink",
+"t": "양산 울산 사각싱크볼, 물 안튀는 수전으로 교체 후기",
+"d": "2026. 11. 4.",
+"u": "https://blog.naver.com/supermans8157/224464806131",
+"img": "assets/gallery/auto/224464806131.jpg",
+"ts": "2026-11-04T15:52:45+09:00"
+},
+{
 "c": "polish",
 "t": "포항 울산 상판연마광택으로 말끔해졌어요.",
 "d": "2026. 11. 2.",
@@ -398,14 +406,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224383367748",
 "img": "assets/gallery/polish/224383367748_0.jpg",
 "ts": "2026-08-19T00:00:00+09:00"
-},
-{
-"c": "hood_sink",
-"t": "부산 사각싱크볼 교체｜아티잔 네오녹스 RT858 5면 엠보 설치 후기",
-"d": "2026. 8. 16.",
-"u": "https://blog.naver.com/supermans8157/224380326899",
-"img": "assets/gallery/hood_sink/224380326899_0.jpg",
-"ts": "2026-08-16T00:00:00+09:00"
 },
 {
 "c": "polish",
