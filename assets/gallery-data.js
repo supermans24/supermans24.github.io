@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "부산 김해 로보락 로봇청소기를 싱크볼 아래에 설치하고 싶어요.",
+"d": "2026. 11. 7.",
+"u": "https://blog.naver.com/supermans8157/224468662955",
+"img": "assets/gallery/auto/224468662955.jpg",
+"ts": "2026-11-07T23:11:03+09:00"
+},
+{
 "c": "hood_sink",
 "t": "양산 울산 사각싱크볼, 물 안튀는 수전으로 교체 후기",
 "d": "2026. 11. 4.",
@@ -350,14 +358,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224388354132",
 "img": "assets/gallery/crack/224388354132_0.jpg",
 "ts": "2026-09-01T00:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "로봇청소기 직배수 설치, 싱크대장 리폼 전 확인해야 할 조건",
-"d": "2026. 8. 28.",
-"u": "https://blog.naver.com/supermans8157/224392925132",
-"img": "assets/gallery/robot/224392925132_0.jpg",
-"ts": "2026-08-28T00:00:00+09:00"
 },
 {
 "c": "polish",
