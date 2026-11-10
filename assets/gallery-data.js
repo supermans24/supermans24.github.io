@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "부산 창원 가스렌지 앞쪽 상판 크랙 금간 곳 수리하기",
+"d": "2026. 11. 9.",
+"u": "https://blog.naver.com/supermans8157/224470554819",
+"img": "assets/gallery/auto/224470554819.jpg",
+"ts": "2026-11-09T17:27:48+09:00"
+},
+{
 "c": "robot",
 "t": "부산 김해 로보락 로봇청소기를 싱크볼 아래에 설치하고 싶어요.",
 "d": "2026. 11. 7.",
@@ -349,14 +357,6 @@ const GALLERY = [
 "d": "2026. 9. 1.",
 "u": "https://blog.naver.com/supermans8157/224397349702",
 "img": "assets/gallery/robot/224397349702_0.jpg",
-"ts": "2026-09-01T00:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "싱크대 상판에 금이 갔다면? 부산 크랙 복원 시공 사례",
-"d": "2026. 9. 1.",
-"u": "https://blog.naver.com/supermans8157/224388354132",
-"img": "assets/gallery/crack/224388354132_0.jpg",
 "ts": "2026-09-01T00:00:00+09:00"
 },
 {
