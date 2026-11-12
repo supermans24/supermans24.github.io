@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "polish",
+"t": "부산 정관 주방 상판연마와 싱크볼 교체 그리고 아트월 구멍 복원까지 후기",
+"d": "2026. 11. 11.",
+"u": "https://blog.naver.com/supermans8157/224473560194",
+"img": "assets/gallery/auto/224473560194.jpg",
+"ts": "2026-11-11T23:08:21+09:00"
+},
+{
 "c": "crack",
 "t": "부산 창원 가스렌지 앞쪽 상판 크랙 금간 곳 수리하기",
 "d": "2026. 11. 9.",
@@ -454,14 +462,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/superman1187/224356945001",
 "img": "assets/gallery/auto/224356945001.jpg",
 "ts": "2026-07-24T21:30:52+09:00"
-},
-{
-"c": "polish",
-"t": "양산 싱크대 상판 연마광택, 시공 전후 비교 후기",
-"d": "2026. 7. 9.",
-"u": "https://blog.naver.com/supermans8157/224341617728",
-"img": "assets/gallery/polish/224341617728_0.jpg",
-"ts": "2026-07-09T00:00:00+09:00"
 },
 {
 "c": "cutting",
