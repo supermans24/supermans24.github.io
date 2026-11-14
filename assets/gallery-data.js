@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "부산 양산 싱크대상판 갈라짐 보수 접합 - 냄비 올려뒀다가 깨짐",
+"d": "2026. 11. 14.",
+"u": "https://blog.naver.com/supermans8157/224476309849",
+"img": "assets/gallery/auto/224476309849.jpg",
+"ts": "2026-11-14T00:07:16+09:00"
+},
+{
 "c": "polish",
 "t": "부산 정관 주방 상판연마와 싱크볼 교체 그리고 아트월 구멍 복원까지 후기",
 "d": "2026. 11. 11.",
@@ -334,14 +342,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224399810022",
 "img": "assets/gallery/auto/224399810022.jpg",
 "ts": "2026-09-03T15:56:19+09:00"
-},
-{
-"c": "crack",
-"t": "부산 싱크대 상판 금이 길게 번졌어요｜인조대리석 크랙 수리 후기",
-"d": "2026. 9. 2.",
-"u": "https://blog.naver.com/supermans8157/224389661747",
-"img": "assets/gallery/crack/224389661747_0.jpg",
-"ts": "2026-09-02T09:20:00+09:00"
 },
 {
 "c": "hood_sink",
