@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "창원 진주 로보락 로봇청소기장 리폼 자이아파트",
+"d": "2026. 11. 17.",
+"u": "https://blog.naver.com/supermans8157/224480164068",
+"img": "assets/gallery/auto/224480164068.jpg",
+"ts": "2026-11-17T09:51:06+09:00"
+},
+{
 "c": "crack",
 "t": "부산 양산 싱크대상판 갈라짐 보수 접합 - 냄비 올려뒀다가 깨짐",
 "d": "2026. 11. 14.",
@@ -358,14 +366,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/superman1187/224397394699",
 "img": "assets/gallery/auto/224397394699.jpg",
 "ts": "2026-09-01T15:38:23+09:00"
-},
-{
-"c": "robot",
-"t": "김해 창원 드리미 로봇청소기 오븐장 아래 서랍 활용, 직배수 연결까지",
-"d": "2026. 9. 1.",
-"u": "https://blog.naver.com/supermans8157/224397349702",
-"img": "assets/gallery/robot/224397349702_0.jpg",
-"ts": "2026-09-01T00:00:00+09:00"
 },
 {
 "c": "polish",
