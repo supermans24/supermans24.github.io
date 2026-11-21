@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "crack",
+"t": "김해 울산 싱크대상판 실금이 번져요.  일동미라주 아파트",
+"d": "2026. 11. 20.",
+"u": "https://blog.naver.com/supermans8157/224485308611",
+"img": "assets/gallery/auto/224485308611.jpg",
+"ts": "2026-11-20T22:37:45+09:00"
+},
+{
 "c": "robot",
 "t": "창원 진주 로보락 로봇청소기장 리폼 자이아파트",
 "d": "2026. 11. 17.",
@@ -334,14 +342,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224400826677",
 "img": "assets/gallery/auto/224400826677.jpg",
 "ts": "2026-09-05T08:00:00+09:00"
-},
-{
-"c": "crack",
-"t": "싱크대 상판 깨짐, 수리해서 써도 괜찮을까요?",
-"d": "2026. 9. 4.",
-"u": "https://blog.naver.com/supermans8157/224400657463",
-"img": "assets/gallery/auto/224400657463.jpg",
-"ts": "2026-09-04T11:20:30+09:00"
 },
 {
 "c": "robot",
