@@ -1,5 +1,13 @@
 const GALLERY = [
 {
+"c": "robot",
+"t": "김해 경주 로봇청소기장 리폼 두산위브",
+"d": "2026. 11. 25.",
+"u": "https://blog.naver.com/supermans8157/224488622796",
+"img": "assets/gallery/auto/224488622796.jpg",
+"ts": "2026-11-25T08:00:00+09:00"
+},
+{
 "c": "hood_sink",
 "t": "울산 경주 아티잔 사각싱크볼 엠보코팅된 제품으로 교체했어요.",
 "d": "2026. 11. 24.",
@@ -374,14 +382,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/supermans8157/224400826677",
 "img": "assets/gallery/auto/224400826677.jpg",
 "ts": "2026-09-05T08:00:00+09:00"
-},
-{
-"c": "robot",
-"t": "부산 창원 부산 울산 로봇청소기장 로보락 S10 + 사각싱크볼 아티잔 PEDU858 동시 시공 후기",
-"d": "2026. 9. 3.",
-"u": "https://blog.naver.com/supermans8157/224399810022",
-"img": "assets/gallery/auto/224399810022.jpg",
-"ts": "2026-09-03T15:56:19+09:00"
 },
 {
 "c": "polish",
