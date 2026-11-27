@@ -1,6 +1,14 @@
 const GALLERY = [
 {
 "c": "robot",
+"t": "양산 창원 로봇청소기장 리폼 로보락 직배수 공간 만들기",
+"d": "2026. 11. 27.",
+"u": "https://blog.naver.com/supermans8157/224490534589",
+"img": "assets/gallery/auto/224490534589.jpg",
+"ts": "2026-11-27T08:30:00+09:00"
+},
+{
+"c": "robot",
 "t": "김해 경주 로봇청소기장 리폼 두산위브",
 "d": "2026. 11. 25.",
 "u": "https://blog.naver.com/supermans8157/224488622796",
@@ -358,14 +366,6 @@ const GALLERY = [
 "u": "https://blog.naver.com/superman1187/224404758040",
 "img": "assets/gallery/auto/224404758040.jpg",
 "ts": "2026-09-08T13:56:42+09:00"
-},
-{
-"c": "robot",
-"t": "부산 로보락 S10 리폼 키큰장 문짝 잘라 활용 양정자이더샵",
-"d": "2026. 9. 8.",
-"u": "https://blog.naver.com/supermans8157/224404051379",
-"img": "assets/gallery/auto/224404051379.jpg",
-"ts": "2026-09-08T09:10:00+09:00"
 },
 {
 "c": "polish",
